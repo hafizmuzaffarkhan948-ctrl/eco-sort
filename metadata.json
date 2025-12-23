@@ -1,0 +1,7 @@
+{
+  "name": "Eco-Sort Waste Visual Classifier",
+  "description": "A mobile-responsive tool for waste facility workers and users to instantly classify waste into Green, Yellow, Red, or Grey bins using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
